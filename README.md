@@ -3,7 +3,7 @@
 A modern, responsive todo list application built with pure HTML, CSS, and JavaScript. Features include task management, due dates, categories, and local storage persistence.
 
 ## 🚀 Live Demo
-[View Live Demo]([https://yourusername.github.io/todo-list-app/](https://bereketgetu77-del.github.io/To-do-list-website/))
+[View Live Demo](https://bereketgetu77-del.github.io/To-do-list-website/)
 
 ## ✨ Features
 
